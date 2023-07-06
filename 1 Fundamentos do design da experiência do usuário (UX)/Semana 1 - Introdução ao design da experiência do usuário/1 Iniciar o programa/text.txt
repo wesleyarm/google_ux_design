@@ -1,6 +1,26 @@
-Introduction to JavaScript
+Iniciar o programa
 
----------------Setting up
+---------------Iniciar o programa
+
+Boas-vindas ao Certificado de Design de UX do Google
+
+Os designers de UX vêm de todos os tipos de origens e experiências.
+Muitos trabalhos de UX não exigem um histórico de trabalho específico ou um diploma universitário.
+
+Por meio desses cursos, você obterá as habilidades básicas, a experiência prática e a confiança necessária para se tornar um designer de UX.
+
+Professores:
+    Michael - Designer de interação no escritório de privacidade e proteção de dados do Google
+        Emily - Senior UX researcher
+            Karen - Interation Designer
+                Jason - Chefe de Engenharia de Patriônio do Google
+                    Kunal - UX designer
+                        Dave - Gerente de experiência do usuário no Google Maps
+                            Paolo - Director of UX para anúncios do YouTube
+                                Shabi - Designer de Interação em Acessibilidade
+
+-------------Introdução ao Curso 1: Fundamentos do design da experiência do usuário
+
 
 
 
