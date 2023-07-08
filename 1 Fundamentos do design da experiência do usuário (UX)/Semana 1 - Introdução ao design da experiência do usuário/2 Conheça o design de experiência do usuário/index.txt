@@ -4,6 +4,43 @@ Conheça o design de experiência do usuário
 
 ---------------Os fundamentos do design de experiência do usuário
 
+    User experience
+        A experiência do usuário é como uma pessoa, o usuário, se sente ao interagir ou experimentar um produto.
+
+    Product
+        Um produto é um bem, serviço ou recurso. Pode ser um produto físico, ou um produto tecnológico.
+
+
+Recursos que melhoram a experiência do usuário:
+    Utilizável - Usable
+    Equitativo - Equitable
+    Agradável - Enjoyable
+    útil - Useful
+
+Utilizável
+    A experiência do usuário é melhorar a usabilidade ou tornar algo mais fácil de usar.
+    Os designers de UX precisam pensar em cada pessoa que usa o produto.
+
+Equitativo
+    Considerar as necessidades únicas de muitas pessoas diferentes é um trabalho importante e pensar em design equitativo é fundamental.
+    Ser equitativo significa que seus projetos são úteis e comercializáveis para pessoas com diversas habilidades e origens.
+
+Agradável
+    A experiência do usuário também é tornar as coisas agradáveis de usar, o que cria uma conexão positiva entre o usuário e o produto.
+
+Então, como descobrimos o que deixa um usuário satisfeito com o produto?
+    É aí que entra a pesquisa.
+    Precisamos coletar evidências sobre como eles estão experimentando aquele produto em tempo real e também perguntar a eles sobre isso.
+
+útil
+    Como humanos, queremos produtos que sejam úteis, ou seja, que resolvam problemas.
+    Quando as pessoas gostam de um produto, elas usam muito esse produto e o recomendam a seus amigos.
+
+PLUS
+    Quando os usuário têm uma boa experiência com o produto, é mais provável que tenham uma opinião positiva sobre a empresa que o produziu. Um ganha-ganha para o usuário e para o negócio.
+
+
+
 
 
 
