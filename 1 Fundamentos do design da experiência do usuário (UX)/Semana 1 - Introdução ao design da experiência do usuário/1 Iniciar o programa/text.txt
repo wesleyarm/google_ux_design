@@ -21,6 +21,26 @@ Professores:
 
 -------------Introdução ao Curso 1: Fundamentos do design da experiência do usuário
 
+Os designers de UX ajudam a tornar a tecnologia mais fácil de entender e mais agradável de usar.
+
+A frase "experiência do usuário" foi cunhada pela primeira vez na década de 1990.
+
+No curso iremos explorar:
+    -Fundamentos do UX designer e por que ele é tão importante para consumidores e empresas
+    -Aprenderemos termos, ferramentas e estruturas comuns que os designers de UX usam.
+    -Discutiremos como planejar e participar de sprints de design, um método comun de colaboração em projetos.
+    -E, finalmente, você começará a construir sua  presença profissional online
+
+----------Boas vindas ao curso 1
+
+    Começaremos com o básico:
+        Design centrado no usuário
+        Processo de design e design voltado à equidade e acessibilidade
+        Responsabilidades profissionais comuns de signers iniciantes em UX
+
+
+
+
 
 
 
