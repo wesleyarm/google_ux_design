@@ -39,7 +39,62 @@ Então, como descobrimos o que deixa um usuário satisfeito com o produto?
 PLUS
     Quando os usuário têm uma boa experiência com o produto, é mais provável que tenham uma opinião positiva sobre a empresa que o produziu. Um ganha-ganha para o usuário e para o negócio.
 
+-----------------Empregos na área de experi~encia do usuário
 
+Muitos designers de UX têm um bom senso visual, o que significa que você reconhece quando uma imagem se encaixa ou não no espaço ou quais cores se complementam.
+
+Os designers de UX tendem a ser curiosos sobre as pessoas e gostam de pensar sobre como a emtne das pessoas funciona.
+
+Eles também gostam de descobrir como as pessoas usam os produtos e como tornar esses produtos mais fáceis de usar.
+
+    Empathy
+        A empatia é a capacidade de entender os sentimentos ou pensamentos de outra pessoa em uma situação e é uma parte importante do UX.
+       
+-----
+    Quando você pensa na palavra "design", você pode pensar que é tudo sobre os aspectos visuais de um produto. Mas é apenas uma pequena parte do que os designers de UX podem fazer.
+        Designer de interação, designers visuais e designers de movimento.
+
+    Designers de interação:
+        Se concentram em projetar a experiência de um produto e como ele funciona.
+        Eles descobrem como conectar as necessidades dos usuários e os objetivos do negócio com o que é realmente viável construir.
+
+    Designers visuais
+        Se concentram na aparência de um produto ou tecnologia.
+        Eles podem ser responsáveis por criar logotipos, ilustrações ou ícones. 
+        Eles também podem decidir a cor e o tamanho da fonte ou trabalhar em layouts de produtos.
+
+    Designers de movimento
+        Eles pensam sobre como é para um usuário mover-se por um produto e como criar transições suaves entre as páginas de um aplicativo ou site.
+
+    Designers gráficos
+        Se concentram em criar visuais que contam uma história ou mensagem.
+        Os designers gráficos geralmente trabalham na apar~encia de um produto físico, como um convite ou pôster, enquanto os designers de UX se concentram em como os usuários interagem com o produto.
+
+    Outras:
+    UX researchers
+        Os pesquisadores de UX conduzem os estudos ou entrevistas que nos ajudam a aprender como as pessoas usam um produto.
+
+    UX writers
+        Há os escritores de UX, que pensam em como tornar a linguagem de um produto mais clara para tornar a experi~encia do usuário mais intuitiva.
+            iSSO PODE INCLUIR ESCREVER RÓTULOS PARA BOTÕES OU AJUSTARR O TOM PARA SER FORMAL OU AMIGÁVEL.
+
+    Production designers
+        Que geralmente atuam como uma ponte entre os designers de interação e os engenheiros.
+        Eles garantem que os designers inicial e final correspondam aos materiais do produto acabado e que os ativos estejam prontos para serem entregues à equipe de engenharia.
+
+    Assets > Os ativos são tudo, desde texto e imagens até as especificações de design, como estilo de fonte, cor, tamanho e espaçamento.
+
+    Engenheiros de UX
+        Um dos grupos com os quais os desingers de UX trabalham com mais frequência.
+        Eles traduzem a intenção do design em uma experiência funcional, como um site ou aplicativo.
+
+    UX program managers
+        Os gerentes do programa UX garantem uma comunicação clara e oportuna para que o processo de construção de um produto útil ocorra sem problemas do ínicio ao fim.
+        Isso pode incluir a definição de metas e a elaboração de planos de projeto.
+
+ -------------Carreiras de experi~encia do usuário
+ 
+    
 
 
 
