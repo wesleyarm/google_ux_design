@@ -137,8 +137,55 @@ Designer de conversação
     Os designers de conversação respondem a perguntas como: qual é a linguagem e o fluxo ideais para os usuários, a tarefa a ser realizada e o contexto da conversa? A personalidade do assistente virtual parece genuína, envolvente e reflete os valores da marca? Como a conversa funciona com os elementos na tela? O assistente virtual oferece uma experiência consistente, usável e útil de ponta a ponta?
 
 ------------------O ciclo de vida de desenvolvimento do produto
+
+O ciclo de vida desenvolvimento do produto é o processo usado para levar um produto de uma ideia à realidade.
+Um projeto começa com uma equipe tentando resolver algum problema.
+O problema geralmente abrange como desenvolver um produto que forneça a melhor experiência do usuário.
+
+Product development life cycle
+    Brainstorm
+        É um estágio de descoberta ativa que trata de gerar ideias sobre o usuário e possíveis necessidades ou desafios que o usuário possa ter.
+            A pesquisa desempenha um papel fundamental nesta primeira etapa porque você está explorando diferentes maneiras de conhecer o público para o qual está projetando.
+
+    Define
+        Definir é usar os insights do estágio de brainstorming e começar a estreitar o foco. 
+        A equipe determina maneiras concretas de como o produto que está sendo desenvolvido impactará o usuário.
+
+    Design
+        Designers de UX começam a desenvolver ideias ativamente e também verificam se todas as especificações do estágio de definição são realistas.
+
+    OBS: Os dois primeiros estágios são mais sobre preparação e planejamento.
+    Eles fornecem uma compreensão clara de quem é o usuário, o que o usuário deseja e quais problemas ou desafios você deseja abordar em seu design.
+
+    Teste
+        A equipe avalia o design do produto com base no feedback de usuários em potencial.
+        Esta é uma etapa que envolve muita interação entre designers de UX e engenheiros de front-end enquanto eles descobrem maneiras de criar um produto final que satisfaça as necessidades dos usuários e seja prático e funcional.
+        Eles discutem coisas como a cor ou a fonte podem se adequar à marca da empresa ou se os designs dos protótipos são facilmente compreensíveis.
+
+    Launch
+        Lançamento ou compartilhamento de uma versão finalizada do produto com o público.
+        Isso pode envolver a listagem de um aplicativo na Google Play Store ou na App Store da Apple. 
+        Ativação de um site ou a colocação de um produto físico nas prateleiras das lojas.
+
+----------------Design voltado a uma boa experiência do usuário
+
+A maioria dos designs considerados ruins ou desagradáveis para o usuário não reflete as necessidades do usuário.
+    Portas com esse tipo de experi~encia ruim do usuário são chamadas de portas normandas.
+
+Livro: "O design das coisas do Cotidiano"
+
+Aplicativos bem projetados visam economizar esppaço na tela usando ícones em vez de texto, para que mais informações possam caber.
+        Os ícones também são agradáveis de se olhar e fáceis de entender, independemente do idioma nativo do usuário.
+
+Boas experi~encias do usuário devem criar produtos intuitivos e fáceis de usar.
+
+Use suas próprias experiências para pensar sobre o que torna um design bom ou ruim.
+
+
+
     
 
+    
 
 
 
