@@ -64,7 +64,17 @@ Alguns dos beneficios de ser um designer generalista são que você pode aprende
 
 --------------Trabalhar em uma equipe multifuncional
 
-
+Imagine que você está trabalhando em um aplicativo para pedir comida.
+    Você e sua equipe desejam criar um novo recurso que mostre aos usuários restaurantes que oferecem refeições sem alérgenos.
+        -O líder do produto decide o escopo do projeto
+        -O pesquisador de UX tenta entender a confiança do usuário, como se os usuários confiarão nas informações sobre alérgenos ou no próprio aplicativo.
+        -O designer de interação descobre o fluxo de pedidos, como incluir alimentos sem alérgenos no filtro de pesquisa.
+        -O designer visual pensa em como tornar mais fácil para os usuários encontrar alimentos sem alérgenos no produto
+        
+    Esses designers de UX criam wireframes e protótipos para mostrar a experi~encia que os usuários terão no aplicativo.
+    Os engenheiros dão vida a esses wireframes e protótipos e cria maneiras para os restaurantes adicionarem informações sobre suas opções sem alérgenos.
+    É aqui que o gerente do programa entra em ação para garantir uma comunicação clara e oportuna em toda a equipe, para que o processo de criação de aplicativos úteis ocorra sem problemas do início ao fim.
+    
 
     
 
