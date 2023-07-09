@@ -35,8 +35,12 @@ Comunicação eficaz
 
 -------------Dane: um dia na vida de um designer iniciante de UX
 
+Ao trabalhar em um produto, você estará elaborando uma nova solução ou um novo recurso desse produto, ou estará desenvolvendo algo que já existe e encontrando uma maneira de melhorá-lo.
 
+    Quais são os problemas acontecendo dentro deste produto?
+    Por que estamos procurando melhorar ou introduzir esse recurso?
 
+-------------Designers especialistas, generalistas e t-shaped
 
 
     
