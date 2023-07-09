@@ -42,8 +42,23 @@ Ao trabalhar em um produto, você estará elaborando uma nova solução ou um no
 
 -------------Designers especialistas, generalistas e t-shaped
 
+Generalist
+    Um generalista é um designer de uX com um amplo número de responsabilidades.
+        Por exemplo, você pode fazer um pouco de trabalho de design de interação, um pouco de trabalho de design visual e mais.
+            User research, branding, user flows, UX writing, visual design, prototyping, information architecture, production design, etc
 
-    
+Mas ao encontrar seu nicho, você pode se tornar especialista nele:
+
+Especialista
+    Um especialista mergulha profundamente em uma função específica de design de UX
+
+T-shaped desginer
+    Um designer em forma de T é especializado em um tipo de design UX e possui um amplo conhecimento em outras áreas.
+        Além da sua especialização, você mantém conhecimento complementar de outras áreas
+
+-------------Erika: designer generalista ou especialista
+
+
 
     
 
