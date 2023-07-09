@@ -2,7 +2,21 @@ Apresentação a termos, ferramentas e estruturas comuns do design de UX
 
 ---------------Definir o usuário, o usuário final e a experi~encia do usuário
 
+Diferença entre usuário e usuário final
+    Usuário - é qualquer pessoa que usa um produto. 
+    Usuário Final - é o úblico específico para o qual um designer de UX cria algo.
 
+    User experience - é a experi~encia do usuário como uma pessoa, o usuário, se sente ao interagir ou experimentar um produto.
+
+    Questões para se ter uma boa experi~encia do usuário
+        O produto é fácil de usar?
+        O produto é equitativo?
+        O produto é útil, ou resolve o problema do usuário?
+    
+    Algumas partes do time podem esquecer o usuário final, por isso, você como designer de UX, precisa manter o usuário final como sua principal prioridade.
+
+-------------Priorizar o usuário
+    
 
 
 
