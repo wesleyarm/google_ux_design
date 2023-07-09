@@ -2,6 +2,21 @@ Entenda os tipos de empresa que contratam designers de UX
 
 ---------------Empregos de design de UX em diferentes tipos de empresa
 
+Startup - é um novo negócio que deseja desenvolver um produto ou serviço exclusivo e trazê-lo ao mercado.
+    Designer em startup geralmente são generalistas
+
+Freelancers
+    Os fralancers trabalham por conta própria e comercializam seus serviços para empresas para encontrar clientes.
+
+AgÇencias publicitárias
+    São equipes de criativos contratados por clientes para criar campanhas de marketig.
+
+Agência de design
+    Fornece um balcão único para aparência de marcas, produtos e serviços.
+
+Grandes companhias
+    Têm milhares de funcionários trabalhando em muitos projetos diferentes.
+    Ideal para se especializar em UX design
 
     
 
