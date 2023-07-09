@@ -16,8 +16,36 @@ Diferença entre usuário e usuário final
     Algumas partes do time podem esquecer o usuário final, por isso, você como designer de UX, precisa manter o usuário final como sua principal prioridade.
 
 -------------Priorizar o usuário
-    
 
+   Se concentrar nos problemas do usuários como um todo, e não nos seus.
+    Concentre-se no usuário e tudo o mais se seguirá.
+
+    O design centrado no usuário coloca o usuário na frente e no centro.
+        Focar no usuário significa considierar sua história, suas emoções e os insights que você obteve sobre ele.
+
+        4 etapas para manter o processo de design centrado no usuário:
+            Entender
+            Especificar
+            Projetar
+            Avaliar
+
+    Seguir essa estrutura nos ajuda a criar produtos que as pessoas realmente desejam usar.
+
+    Entenda
+        Entenda como usuário experimenta o produto ou produto similares.
+
+    Especificar
+        Especifique as necessidades do usuário final. Com base na sua pesquisa, você restringirá qual problema do usuário final é o mais importante para resolver.
+
+    Projetar
+        Crie soluções para os problemas que os usuários enfretam. Nesse momento ideas para a aparência do produto começam a ser construídas.
+
+    Avaliar
+        Avalie seu design em relação ás necessidades do usuário final.
+
+            Interação siginifica fazer algo novamente, compilando versões anteriores e fazendo ajustes
+
+    
 
 
 
