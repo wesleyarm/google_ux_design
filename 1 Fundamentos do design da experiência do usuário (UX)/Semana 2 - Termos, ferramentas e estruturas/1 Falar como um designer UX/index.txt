@@ -1,6 +1,7 @@
 Apresentação a termos, ferramentas e estruturas comuns do design de UX
 
----------------
+---------------Definir o usuário, o usuário final e a experi~encia do usuário
+
 
 
 
