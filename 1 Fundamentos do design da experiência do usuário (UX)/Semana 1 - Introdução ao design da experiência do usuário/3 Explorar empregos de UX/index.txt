@@ -2,6 +2,39 @@ Explorar empregos de experiência do usuário
 
 ---------------Responsabilidades profissionais comuns de designers iniciantes de UX
 
+Responsabilidades:
+    Researching - Pesquisa
+    Wireframing - Wireframing
+    Prototyping - Prototipagem
+    Creating information architecture - Criação de arquitetura de informação 
+    Communicating effectively - Comunicação eficaz.
+
+Research
+    Os designers de UX usam pesquisas para entender o público e aprender sobre suas origens
+        dados demográficos, como idade e localização
+            motivações
+                ponto de dor
+                    emoções
+                        e objetivos de vida
+
+Wireframe
+    Wireframe é um esboço de um produto ou tela. Isso ajuda o designer a descobrir como uma página é organizada, onde cada peça de um produto se encaixa nas outras e como os usuários provavelmente interagirão com o produto.
+        Podemos fazer um wireframe desenhando em papel ou digitalmente em um computador.
+
+Prototype
+    Um protótipo é um modelo inicial de um produto que demonstra funcionalidade, como um wireframe, mas muito mais avançado. Um protótipo ilustra uma progressão de uma tela para a próxima.
+        Podemos desenhar nossos protótipos no papel, criar um protótipo físico ou construir um protótipo digital.
+
+O objetivo dos wireframes e protótipos é descobrir o melhor design para um produto de forma barata e rápida.
+
+Criação de arquitetura de informação
+    Que é a estrutura de um site ou como ela é organizada, categorizada e estruturada.
+
+Comunicação eficaz
+    Reuniões com colegas, escrever e-mails, criar propostas ou lançar clientes
+
+-------------Dane: um dia na vida de um designer iniciante de UX
+
 
 
 
