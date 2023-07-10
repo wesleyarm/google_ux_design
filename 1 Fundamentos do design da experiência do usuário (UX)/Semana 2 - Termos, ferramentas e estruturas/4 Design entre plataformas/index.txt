@@ -18,6 +18,25 @@ Identidade da Marca
 
 --------------Design para plataformas diferentes
 
+Há uma grande diferença na quantidade de tempo que os usuários gastam em telefones celulares em comparação com computadores de mesa.
+
+É importante que os designers de UX considerem as limitações de conectividade dos usuários móveis, como velocidades de processamento mais lentas e tempos de carregamento mais longos.
+
+Capacidade de resposta
+    A maioria dos sites para celular era uma versão em miniatura do site para computador.
+    Agora, quase todos os sites usam web design responsivo
+
+Web deisgn responsivo
+    Permite que um site mude automaticamente dependendo do tamanho do dispositivo.
+
+Práticas recomendadas ao projetar experiências de usuário móvel
+    -Os botões de chamada para ação devem ser colocados na frente e no centro, permitindo que o usuário conclua facilmente a tarefa desejada.
+    -Os menus de navegação devem ser curtos e simples. Queremos simplificar a experi~encia do usuário no celular
+    -Use gestos
+    -Projetar em ambas posições do celular
+    -Reduza a confusão visual
+
+
 
 
 
