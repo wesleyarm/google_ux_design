@@ -1,6 +1,27 @@
 Apresentação a termos, ferramentas e estruturas comuns do design de UX
 
----------------
+---------------Design voltado ao próximo bilhão de usuários
+Você sabia que globalmente há um bilhão de pessoas agora apenas começando a usar a internet?
+    Chamamos essas pessoas de Next Billion Users, ou NBU
+
+Custo
+    As pessoas podem não conseguir comprar telefones caros com telas grandes e muito espaço de armazenamento
+
+Conectividade
+    Os usuários podem não ter acesso constante ou ilimitado à internet.
+
+Alfabetização
+    Também é uma questão crucial
+    As pessoas podem não estar familiarizados com certos padrões de design, frases de chamariz ou ícones que damos como certo.
+
+Alfabetização
+    Alguns usuários não conseguem ler
+
+Nosso objetivo é fazer com que todos os usuários sintam que projetamos a experiência apenas para eles, independente de quantam ganham, onde moram ou quão bem eles são educados.
+
+----------------Problemas dos usuários novatos na internet
+
+
 
 
 
