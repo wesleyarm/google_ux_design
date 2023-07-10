@@ -2,7 +2,21 @@ Apresentação a termos, ferramentas e estruturas comuns do design de UX
 
 ---------------Conheça as plataformas
 
+Plataforma
+    É o meio em que os usuários experimentam seu produto, como:
+        Desktop
+        Web móvel
+        Aplicativos móveis
+        Tablets
+        TVs
+        Etc
 
+Mesmo que os designers de UX precisem pensar em várias plataformas, é importante focar em uma plataforma primeiro quando você cria um novo produto.
+
+Identidade da Marca
+    Refere-se à aparência visual e à voz de uma empresa
+
+--------------Design para plataformas diferentes
 
 
 
