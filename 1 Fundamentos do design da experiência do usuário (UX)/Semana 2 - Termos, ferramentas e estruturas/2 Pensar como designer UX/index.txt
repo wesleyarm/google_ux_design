@@ -2,7 +2,53 @@ Apresentação a termos, ferramentas e estruturas comuns do design de UX
 
 ---------------Estruturas importantes no design de UX
 
+Framework
+    Uma estrutura básica que enfoca e dá suporte ao problema que você está tentando resolver.
+        Você pode pensar em estruturas como esboços de um projeto.
+        Existem muitas estruturas de design de UX e, com o tempo, elas evoluem ou se tornam obsoletas graças ao mundo da tecnologia em rápida mudança.
 
+    Framework dos cinco elementos
+        São uma estrutura de etapas que um designer executa para transformar uma ideia em um produto funcional.
+            Estratégia
+                É aqui que você definirá as necessidades do usuário e os objetivos de negócios.
+            Escopo
+                É aqui que você determinará o que está construindo.
+                Você decidirá sobre os recursos e conteúdos a serem incluídos no produto.
+            Estrutura
+                Voc~e descobrirá como organizar seu design e como o usuário irá interagir com ele.
+            Esqueleto
+                Imaginar como o layout.
+                Semelhante à forma como nossos ossos molda nossa pele, essa camada ajuda a detalhar como o design funciona, mas ele não verá o funcionamento interno.
+            Superfície
+                Nível superior da aparência para o usuário
+
+    Framework do design thinking
+        É uma maneira de criar soluções que abordam o problema de um usuário real e são funcionais e acessíveis.
+        O design thinking tem cinco etapas acionáveis:
+            Criar empatia
+                Descobrir o que os usuários finais realmente precisam e aprender como pensar e sentir como eles.
+            Definir
+                Definir o problema criando uma declaração clara do problema. Necessidade do usuário deve ser abordada.
+            Idealizar
+                Você deve ter como objetivo apresentar o máximo de ideias possível.
+                Se concentrar mais na quantidade de ideias e não na qualidade.
+            Prototipar
+                Algumas ideias podem precisar ser prototipadas.
+                Um protótipo é uma versão reduzida de um produto que mostra funções importantes
+            Testar
+                Testamos os protótipos com os usuários
+                Receber feedback dos usuários antes que o produto seja construído.
+
+    Processo de design centrado no usuário
+        Cada fase do processo de design centrado no usuário é focada nos usuários e em suas necessidades. O processo é iterativo, o que significa que os designers retornam a determinadas fases repetidas vezes para refinar os designs e criar o melhor produto possível para o público-alvo.
+
+        Aqui estão as principais etapas do processo de design centrado no usuário: 
+            Entender como é a experiência dos usuários com o produto ou com produtos semelhantes. Você quer saber como os usuários vão interagir com seu design, assim como o ambiente ou contexto em que o produto será usado. Para entender isso, é necessário realizar muitas pesquisas, por exemplo, observar usuários em ação e conduzir entrevistas, conforme veremos mais tarde.
+            Especificar as necessidades do usuário. Com base na sua pesquisa, você precisa descobrir quais são os principais problemas do usuário que precisam ser resolvidos. 
+            Projetar soluções voltadas aos problemas do usuário. Desenvolva muitas ideias de design que possam resolver os problemas identificados do usuário. Em seguida, comece a projetar essas ideias de verdade! 
+    Avaliar as soluções que você projetou de acordo com as necessidades do usuário. Pergunte a si mesmo: “O design que criei resolve o problema do usuário?”. Para responder a essa pergunta, você deve testar o produto que projetou com pessoas reais e coletar feedback.
+
+--------------Pense como um designer: saiba mais sobre diferentes estruturas de design
 
 
 
