@@ -44,7 +44,34 @@ Design com foco em equidade:
 
 ------- A importância da acessibilidade
 
-    
+    Acebissilidade > se refere ao design de produtos, dispositivos, serviços ou ambientes para pessoas com deficiência.  a11y = accessibility
+
+    Categorias de acessibilidade
+        Pessoas com deficiência motora;
+        Pessoas surdas ou com deficiência auditiva;
+        Pessoas com defici~encias cognitivias; como de desenvolvimento, aprendizagem ou intelectuais;
+        Pessoas com deficiência visuais
+
+    Pense em recursos de produto inclusivos que aumentam a ampliação.
+        Como tamanho de fonte
+        legendas, etc
+
+----- Opcional - Design para acessibilidade
+
+Parte 1 (Conscientização é tudo)
+https://design.google/library/designing-global-accessibility-part-1
+ descreve como aumentar sua conscientização sobre problemas de acessibilidade e confirmar suposições sobre os usuários. 
+
+Parte 2 (O contexto é importante)
+https://design.google/library/designing-global-accessibility-part-2
+ investiga por que é fundamental considerar a logística durante o processo de design para expandir a usabilidade e a utilidade do aplicativo. 
+
+Parte 3 (Torne a inclusão o padrão)
+https://design.google/library/designing-global-accessibility-part-iii
+ discute como designers de UX podem tomar decisões táticas para criar aplicativos inclusivos. 
+
+ 
+
 
 
 
