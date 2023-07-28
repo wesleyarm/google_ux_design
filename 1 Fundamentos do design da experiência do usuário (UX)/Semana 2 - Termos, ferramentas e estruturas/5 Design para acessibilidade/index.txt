@@ -72,11 +72,23 @@ https://design.google/library/designing-global-accessibility-part-iii
 
  ------- A importância do design focado na equidade
 
- 
+    Especificamente voltado no que diz respeito a raça e gênero
 
+    Design focado na equidade > Envolve pensar em todos os aspectos de um produto para se certificar de que ele seja acessível e justo para todos os gêneros, raças e habilidades.
+    Além disso, os designers precisam considerar especificamente grupos sub-representados e excluídos.
+        Considerar apenas o essencial na coleta de dados
 
+        Realizar testes com um conjunto diverso de usuários pode de fato melhorar um produto.
+    
+    Imagens inclusivas
+        Por exemplo, na criação de uma conta do usuário, qual avatar utilizar que pode representar o sexo escolhido pelo usuário
 
+    Qual cenário é um exemplo de pensamento ou design equitativo?
+        Fornecer closed caption e um intérprete durante uma apresentação online.
+            Fornecer closed caption e um intérprete durante uma apresentação online é um exemplo de pensamento equitativo. Nem todos os que assistem a uma apresentação têm audição ou visão impecáveis, especialmente se há convidados com deficiência auditiva ou com dificuldades de visão.
 
+------- Tecnologia assistiva
+    
 
 
 
