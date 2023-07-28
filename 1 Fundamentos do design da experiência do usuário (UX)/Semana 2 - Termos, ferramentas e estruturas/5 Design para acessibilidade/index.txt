@@ -70,6 +70,8 @@ Parte 3 (Torne a inclusão o padrão)
 https://design.google/library/designing-global-accessibility-part-iii
  discute como designers de UX podem tomar decisões táticas para criar aplicativos inclusivos. 
 
+ ------- A importância do design focado na equidade
+
  
 
 
