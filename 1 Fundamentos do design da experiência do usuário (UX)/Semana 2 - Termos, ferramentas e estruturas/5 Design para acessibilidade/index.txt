@@ -4,6 +4,47 @@ Apresentação a termos, ferramentas e estruturas comuns do design de UX
 Shabi
     Designer de interação no Google
 
+Quanto é importante e impactante considerar as necessidades das pessoas com deficiência e o quanto queria criar produtos para ajudá-los.
+
+Existem muitos frameworks de design UX, e esses frameworks mudam com o tempo.
+Três maneiras de colocar o usuário em primeiro lugar em seus designs:
+
+Design universal:
+    Quando os designers começaram a considerar como incluir uma gama ainda maior de pessoas em seus designs, eles chamaram isso de design universal.
+        O design universal é o processo de criação de um produto para usuários com a mais ampla gama de habilidades e na mais ampla variedade de situações.
+        Os designers propõem uma solução para todos.
+
+    O problema é que, quando você se concentra em criar uma solução para todos, os designs perdem a eficácia.
+    Muitas vezes é difícil atingir qualquer objetivo com seu produto quando você tem tantos usuários pretendidos.
+
+Design inclusivo:
+    Se concentra em encontrar soluções para atender diferentes necessidades.
+    Significa fazer escolhas de design que levem em consideração identificadores pessoais como:
+        Habilidade
+        Raça
+        Status econômico
+        Idioma
+        identificadores
+        Gênero
+
+    O design inclusivo inclui pesquisadores e designers de populações tradicionalmente excluídas no processo, para que possam fornecer suas perspectivas únicas durante todas as fases do processo de design
+        Com um design inclusivo, você resolve um tipo de usuário e o benefício dessa solução pode se estender a muitos outros tipos de usuários.
+            Conforme construímos mais versões de um produto, projetamos para grupos excluídos adicionais, como aqueles com defiências visuais, etc
+                "resolver para um, estender para muitos"
+
+Design com foco em equidade:
+    O design com foco na equidade leva a ideia de deisgn inclusivo um passo adiante.
+    -Ele pede aos designers que se concentrem em projetar para grupos historicamente sub-representados ou ignorados na construção de produtos.
+    
+    Diferença entre igualdade e equidade
+        Igualdade > significa oferecer a mesma quantidade de oportunidades e apoio a todos os segmentos da sociedade. Todos recebem a mesma coisa
+        Equidade > significa forcener diferentes níveis de oportunidade e apoio para cada pessoa, a fim de alcançar resultados juntos
+
+    Design com foco no pratimômicio é um conceito mais recente em UX e que costumamos discutir no Google, em vez de construir produtos para grupos de pessoas que estão sendo excluídos, que é o objetivo do design inclusivo, o design com foco na equidade busca construir produtos que atendam às necessidades de indivíduos específicos em grupos que foram excluídos no passado.
+
+------- A importância da acessibilidade
+
+    
 
 
 
