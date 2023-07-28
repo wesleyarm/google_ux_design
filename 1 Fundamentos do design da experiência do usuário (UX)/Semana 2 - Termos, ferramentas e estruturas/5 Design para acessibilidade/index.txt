@@ -88,9 +88,32 @@ https://design.google/library/designing-global-accessibility-part-iii
             Fornecer closed caption e um intérprete durante uma apresentação online é um exemplo de pensamento equitativo. Nem todos os que assistem a uma apresentação têm audição ou visão impecáveis, especialmente se há convidados com deficiência auditiva ou com dificuldades de visão.
 
 ------- Tecnologia assistiva
-    
+    Termo Tecnologia Assistiva ou TA
+        É usado para descrever qualquer produto, equipamento e sistema que melhora a aprendizagem, o trabalho e a vida diária de pessoas com deficiência.
 
+    Modificação de cor;
+    Controle por voz;
+    Leitores de tela;
+    Texto alternativo;
 
+    Primeiro, é importante ressaltar que há muitas pessoas que não possuem deficiência, mas utilizam determinadas funções/tecnologias assistivas no dia a dia
+
+    Compreender como as pessoas com deficiência usam seu produto é um ponto crítico do UX design.
+
+------- Revisão da semana 2
+    Glossário
+Aprendemos muitos termos e definições nesta parte do curso. Alguns dos termos podem ser novos, outros, você talvez já conhece. Para ficar mais fácil de memorizar o significado de cada palavra, criamos um glossário de termos e definições que evolui a cada semana do curso. Veja abaixo!
+
+Para visualizar o glossário deste item do curso, clique no link abaixo e selecione “Usar modelo”. 
+
+Link para o glossário: 
+Curso 1 Semana 2 - Glossário
+
+OU 
+
+Caso você não tenha uma conta do Google, faça o download do glossário diretamente no anexo abaixo.
+
+    https://docs.google.com/document/d/1F_abyF4Ufg8QoMKNsQueFfDq_jaeXevaKNfFNrHjt0s/template/preview
 
 	
 
