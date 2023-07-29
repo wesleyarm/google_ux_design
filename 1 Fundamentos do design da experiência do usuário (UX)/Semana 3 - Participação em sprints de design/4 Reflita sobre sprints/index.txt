@@ -2,11 +2,36 @@ Participação em sprints de design
 
 ---------------Retrospectivas de sprint de design
 
+    Se conseguimos resolver o problema de cometer erros repetidos diversas vezes?
+        Esse é o principio da Restropectivas de Design
 
+    Normalmente acontecem após a sprint de design
+        O que deu certo?
+        O que pode melhorar?
 
+       Estas são algumas das perguntas que você pode fazer durante esta parte da retrospectiva:
+
+            O que deu errado e pegou você de surpresa?
+
+            Quais problemas surgiram com mais frequência?
+
+            Qual você acha que foi o maior desafio da equipe?
+
+    Depois, examine o resultado ou produto final do sprint e faça perguntas como:
+
+        A equipe superestimou ou subestimou o trabalho necessário para concluir o projeto?
+
+        Houve algum fator externo que atrapalhou a produtividade?
+
+        E, o mais importante, o design final realmente resolve o problema do usuário?
+
+    Identifique como a equipe poderia ter encontrado uma solução melhor.  
+
+Glossário
+    Aprendemos muitos termos e definições nesta parte do curso. Alguns dos termos podem ser novos, outros você talvez já conheça. Para ficar mais fácil memorizar o significado de cada palavra, criamos um glossário de termos e definições que evolui a cada semana do curso. Veja abaixo!
+
+    Salvo na pasta
     
-
-
 
 	
 
