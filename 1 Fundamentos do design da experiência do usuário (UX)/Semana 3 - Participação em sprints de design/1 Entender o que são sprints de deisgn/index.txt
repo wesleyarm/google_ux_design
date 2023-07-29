@@ -10,10 +10,19 @@ Participação em sprints de design
 
     Os sprints de design geralmente incluem cinco fases:
         Compreensão
+            A fase de compreensão coloca seu sprint no caminho certo, discussões criativas, com outros departamento para encontrar a melhor solução
+
         Idealização
+            Para fazer a criatividade fluir, vocês começam essa fase criando ideias e usando-as como base para criar soluções. Cada um apresenta suas ideias, para encontrar a melhor solução, ou um conjunto de soluções
+
         Decisão
+            Em grupo sua equipe discute cada solução possível, e decide qual tem maior chance de obter um resultado positivo
+
         Protótipo
+            Agora está tudo pronto para criar a primeira versão do novo recurso do app
+
         Teste
+            Agora você coloca em teste para os usuários, você observa como eles reagem e faz entrevistas sobre a experiência deles. Correções que precisam ser feitas, etc
 
     Beneficios do Sprint de Design
         Poupam tempo;
@@ -23,6 +32,11 @@ Participação em sprints de design
 
 -------- Cinco fases de sprints de design
 
+    Sprint de deisgn tradicional dura cinco dias
+        Cada fase levando até 1 dia inteiro
+    
+------- Benefícios de sprints de design
+    
 
 
 
