@@ -1,6 +1,28 @@
 Participação em sprints de design
 
----------------Entender o que são sprints de deisgn
+---------------Introdução a sptrints de design
+
+    Todas as coisas começou como um problema ou desafio de design.
+
+    Sprint de Design
+        É um processo com tempo delimitado com cinco fases normalmente espalhadas ao longo de cinco dias inteiros de oito horas.
+        -O objetivo dos sprints de design é resolver um desafio crítico de design por meio do design, prototipagem e teste de ideias com os usuários.
+
+    Os sprints de design geralmente incluem cinco fases:
+        Compreensão
+        Idealização
+        Decisão
+        Protótipo
+        Teste
+
+    Beneficios do Sprint de Design
+        Poupam tempo;
+        Criam um caminho eficaz para levar um produto ao mercado;
+        Piorizam o usuário
+        Teste do produto antes do lançamento, evitando custos
+
+-------- Cinco fases de sprints de design
+
 
 
 
