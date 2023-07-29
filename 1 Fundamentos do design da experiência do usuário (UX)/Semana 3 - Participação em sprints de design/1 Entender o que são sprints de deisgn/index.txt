@@ -36,9 +36,43 @@ Participação em sprints de design
         Cada fase levando até 1 dia inteiro
     
 ------- Benefícios de sprints de design
+    O foco é o usuário
+        Os usuários que decidem o sucesso
+
+    Todas as pessoas da sala são valorizadas
+        Estágirios, senior, pleno, etc
+
+    As melhores ideias sejam escolhidas
+
+    Sprints dão o tempo de que a equipe principal precisa para focar em apenas um desafio
+
+    Reduzem o risco de um lançamento mal sucessido
+
+    Podem ser feitas em qualquer etapa do projeto
+
+--------Opcional - mais sobre sprints de design
+    Se você quer saber mais sobre sprints de design, por que não começar pela fonte? O 
+Kit de Sprint de Design do Google é um recurso de código aberto disponível para qualquer pessoa que esteja aprendendo ou realizando sprints de design.
+    https://designsprintkit.withgoogle.com/
+
+Estudos de caso sobre sprints de design que resolveram vários tipos de desafio
+    https://designsprintkit.withgoogle.com/case-studies
+
+modelos de apresentações e atividades e muito mais
+    https://designsprintkit.withgoogle.com/resources/overview
+
+Além disso, veja este artigo no Medium sobre a importância dos sprints de design
+    https://uxplanet.org/whats-a-design-sprint-and-why-is-it-important-f7b826651e09
+
+Ou, para se inspirar de verdade, leia o livro Sprint do criador de sprints de design ex funcionário do Google Jake Knapp. Preste atenção especial aos capítulos “Start at the End” (Começar pelo fim) para ter uma visão geral de como estabelecer metas de longo prazo para um sprint e “Liftoff” (Decolagem) para encontrar inspiração para o seu primeiro sprint. Boa leitura!
+    https://www.thesprintbook.com/book
+
+A função de um designer iniciante
+    Se sua carreira como designer de UX está só no começo, talvez tenha curiosidade para aprender sobre a função de um designer de UX iniciante em um sprint. Nós temos informações privilegiadas para você! Veja esta postagem do INKONIQ BLOG sobre como um sprint de design funciona no Google
+        https://medium.com/inkoniq-blog/inside-a-design-sprint-workshop-at-google-3950b1654f2
+
+
     
-
-
 
     
 
