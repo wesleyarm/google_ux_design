@@ -2,8 +2,31 @@ Participação em sprints de design
 
 ---------------Planejar sprints de design
 
+Pesquisa com usuários
+    A primeira etapa em qualquer processo de planejamento de sprint, identificar e explorar os problemas relatados pelos usuários
 
+Especialistas
+    Ideias de soluções, dicas e informações
 
+Encontro o espaço certo
+    Espaço onde todos possam se concentrar nas tarefas, local de trabalho adequado
+
+Reunir os suprimentos
+    Material adequado para as reuniões
+
+Estabelecer as regras do sprint
+    Sem distrações se necessários, dispositivos móveis, etc
+
+Planejamento das apresentações
+    Ajudar os membros a se conhecerem
+
+O Planejamento pós-sprint
+    Pensar no que vai acontecer depois que o sprint terminar, documentar o sprint, com fotos, adesivos, informações adicionais, etc
+
+---------- Apresentação de um sprint de design
+    É um documento que você vai compartilhar com todos os participantes para ajudar a se preparem para a sprint, como tempo, recursos, etc
+        Irá contar os desafios da sprint
+            Aprovadores > Mencionar quem precisa autorizar o projeto no documento
 
 
     
