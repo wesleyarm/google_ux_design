@@ -10,7 +10,68 @@ Como criar uma presença profissional
     É melhor ter seu próprio nome de domínio para uma marca pessoal.
 
 --------- Informações para o portfólio
+
+    Nome e logotipo pessoal (se você tiver um). 
+        Coloque seu nome em destaque no topo do site de portfólio para ajudar os visitantes a identificar facilmente de quem são os trabalhos que estão vendo. Se você tiver um logotipo pessoal, como um ícone simples ou uma versão estilizada das suas iniciais, considere incluí-lo ao lado do seu nome também.
+
+    Menu de navegação. 
+        A navegação é como os usuários se movem de uma página para outra em um site. A navegação do site de portfólio precisa ser simples e fácil. Por exemplo, os usuários devem ser capazes de acessar a página inicial de qualquer seção do site, e os títulos de navegação devem ser claros e precisos.
+
+    Amostras de trabalho. 
+        O foco do site de portfólio é destacar amostras do seu trabalho de design de UX. Por exemplo, você criará três projetos durante este programa de certificação que podem ser exibido no site de portfólio. Ao planejar o site de portfólio, escolha um layout que faça as amostras de trabalho brilharem!
+
+    "Sobre mim". 
+        Crie uma página no site de portfólio em que os visitantes descubram mais sobre seus interesses, experiências e paixões. Você criará uma página "Sobre mim" para o seu site de portfólio em uma atividade futura do curso.
+
+    Informações de contato. 
+        No site de portfólio, é importante incluir informações sobre como as pessoas podem entrar em contato com você. Por exemplo, informe seu endereço de e-mail, um link para seu currículo e links para os perfis profissionais online (como no LinkedIn), para que os visitantes possam enviar oportunidades de trabalho. Sempre que possível, use dados que tenham uma aparência profissional, como um endereço de e-mail como [SeuNome]@gmail.com. É possível incluir informações de contato em diferentes partes do site de portfólio, como em uma página dedicada ou na parte superior, inferior ou lateral do site.
+
+    Esquema de cores. 
+        As cores do portfólio podem oferecer uma experiência de usuário mais envolvente e refletir sua personalidade e marca pessoal. Sugerimos selecionar um pequeno conjunto de cores que funcionam bem juntas, como uma cor primária e uma cor de destaque. O objetivo das cores é servir de suporte para o conteúdo e a marca pessoal, não para distrair a atenção. 
     
+Opcional - Mapeie o conteúdo do seu site
+    Fazer um esboço rápido de como seria o visual do site de portfólio ajuda a definir qual modelo do criador de sites é ideal para você. Para esboçar um layout básico das páginas mais importantes, você só precisa de uma caneta ou lápis e papel. 
+
+    Por exemplo, comece desenhando a página inicial do site de portfólio e definindo onde você acha que seu nome, logotipo, menu de navegação e amostras de trabalho devem aparecer. Ou esboce uma página "Sobre mim" para visualizar onde quer colocar uma imagem sua, seus interesses, experiências e informações de contato.
+
+    Não precisa ser algo sofisticado! Seu objetivo é simplesmente começar a imaginar como será o layout do site, para aproveitar ao máximo os modelos de criadores de sites. Use suas habilidades criativas e divirta-se!
+
+Ao mapear o conteúdo do site de portfólio, considere estas perguntas:
+
+    O que você incluirá na página inicial do portfólio? 
+
+    Quais elementos, se houver, você quer incluir juntos?
+
+    No geral, de quantas páginas você precisa e qual será o título de cada página?
+
+
+-------- Introdução às práticas recomendadas para portfólio de design de UX
+
+    Dar foco total no portfólio, ao conteúdo que demonstra sua área de interesse, projetos mais importantes, que representam isso.
+
+    Mínimo de texto possível no portfílio
+
+    Contar uma história
+
+    Navegação simples e intuitiva
+
+Perguntas importantes para estudo de caso dos projetos
+    Qual era o problema que você queria resolver?
+    Qual processo você seguiu?
+    Quais foram os sucessos ou fracassos?
+    Quais insights informaram suas decisões de design ao longo do caminho?
+    E qual foi a solução definitiva?
+    E porque você sente que essa solução foi a melhor?
+
+    Nome do projeto
+    Duração do projeto
+    Seu papel na equipe
+        conttribuções
+    Publico-alvo
+    esboços ou wireframes
+    resultado de testes com usuários
+    projeto final
+    conclusão
 
     
 
